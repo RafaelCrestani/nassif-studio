@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /nassif-studio/
+Disallow: /nassif-studio/dev/
+
+Sitemap: https://rafaelcrestani.github.io/nassif-studio/sitemap-index.xml
